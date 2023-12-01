@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/String 1/String 1.iml" filepath="$PROJECT_DIR$/String 1/String 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String 10/String 10.iml" filepath="$PROJECT_DIR$/String 10/String 10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String 2/String 2.iml" filepath="$PROJECT_DIR$/String 2/String 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String 3/String 3.iml" filepath="$PROJECT_DIR$/String 3/String 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String 4/String 4.iml" filepath="$PROJECT_DIR$/String 4/String 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String 5/String 5.iml" filepath="$PROJECT_DIR$/String 5/String 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String 5 Do/String 5 Do.iml" filepath="$PROJECT_DIR$/String 5 Do/String 5 Do.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String 6/String 6.iml" filepath="$PROJECT_DIR$/String 6/String 6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String 7/String 7.iml" filepath="$PROJECT_DIR$/String 7/String 7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String 8/String 8.iml" filepath="$PROJECT_DIR$/String 8/String 8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String 9/String 9.iml" filepath="$PROJECT_DIR$/String 9/String 9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Varios 1/Varios 1.iml" filepath="$PROJECT_DIR$/Varios 1/Varios 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/string y varios.iml" filepath="$PROJECT_DIR$/string y varios.iml" />
+    </modules>
+  </component>
+</project>
