@@ -3,6 +3,15 @@ import java.util.Scanner;
 public class String11 {
     public static void main(String[] args) {
 
+/*
+    11. Cargar una string con la cadena «Siempre se puede aprender java»:
+    • Contar el número de letras que tiene
+    • Contar el número de palabras
+    • Contar el número de «a»
+    • Presentarla en consola invertida palabra a palabra
+    • Presentarla en consola invertida letra a letra
+*/
+
 
         String originalStr = "Siempre se puede aprender Java";
         String tmpStr; // (temporal string)

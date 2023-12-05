@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Binario a Decimal/Binario a Decimal.iml" filepath="$PROJECT_DIR$/Binario a Decimal/Binario a Decimal.iml" />
       <module fileurl="file://$PROJECT_DIR$/String 1/String 1.iml" filepath="$PROJECT_DIR$/String 1/String 1.iml" />
       <module fileurl="file://$PROJECT_DIR$/String 10/String 10.iml" filepath="$PROJECT_DIR$/String 10/String 10.iml" />
       <module fileurl="file://$PROJECT_DIR$/String 11/String 11.iml" filepath="$PROJECT_DIR$/String 11/String 11.iml" />
@@ -15,6 +16,9 @@
       <module fileurl="file://$PROJECT_DIR$/String 8/String 8.iml" filepath="$PROJECT_DIR$/String 8/String 8.iml" />
       <module fileurl="file://$PROJECT_DIR$/String 9/String 9.iml" filepath="$PROJECT_DIR$/String 9/String 9.iml" />
       <module fileurl="file://$PROJECT_DIR$/Varios 1/Varios 1.iml" filepath="$PROJECT_DIR$/Varios 1/Varios 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Varios 2/Varios 2.iml" filepath="$PROJECT_DIR$/Varios 2/Varios 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Varios2F/Varios2F.iml" filepath="$PROJECT_DIR$/Varios2F/Varios2F.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Varios3/Varios3.iml" filepath="$PROJECT_DIR$/Varios3/Varios3.iml" />
       <module fileurl="file://$PROJECT_DIR$/string y varios.iml" filepath="$PROJECT_DIR$/string y varios.iml" />
     </modules>
   </component>
